@@ -1,4 +1,8 @@
+import Classes.ReadCSV
+import java.io.File
+
 
 fun main() {
-    println("This is the start of the Project")
+    println("To Fudido!")
+    ReadCSV
 }
